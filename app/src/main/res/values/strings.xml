@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popcorn</string>
+    <string name="movies_title">movies Title</string>
+    <string name="category">Category</string>
+    <string name="duration">Year</string>
+    <string name="image_details">image_Details</string>
+    <string name="buy_ticket">Buy Ticket</string>
+    <string name="overview">OverView</string>
+    <string name="what_do_you_nwant_to_nwatch_today">what do you\nwant to\nwatch today?</string>
+</resources>
